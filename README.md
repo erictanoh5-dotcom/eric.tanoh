@@ -19,6 +19,7 @@ Technicien en bâtiment avec plus de 3 ans d’expérience en gestion de chantie
 Rigoureux et orienté terrain, je combine compétences techniques et organisationnelles pour garantir la bonne exécution des ouvrages dans le respect des normes.
 
 🛠️ Compétences clés
+
 🏗️ Gestion et suivi de chantier
 📐 Lecture et conception de plans techniques
 📊 Planification et organisation des travaux
@@ -31,17 +32,24 @@ Word
 
 
 💼 Expériences professionnelles
+
 🏢 Technicien OPC – CPCI (2025 - Présent)
+
 Suivi des approvisionnements
 Contrôle qualité des travaux
 Coordination des équipes
+
 🏗️ Technicien Chef de Chantier – UNISERV BTP (Juillet 2024 - Février 2025)
+
 Organisation et exécution des travaux
 Gestion des équipes
 Rédaction de rapports de chantier
+
 🛠️ Stagiaire Chef de Chantier – UNISERV BTP (Octobre 2023 - Juillet 2024)
+
 Assistance à la gestion de chantier
 Suivi de l’exécution des travaux
+
 🎯 Objectif
 
 Mettre mes compétences en BTP et en dessin technique au service de projets ambitieux, tout en évoluant vers des postes à plus grande responsabilité dans la conduite de travaux.
