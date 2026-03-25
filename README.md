@@ -4,6 +4,7 @@ Technicien BTP | Chef de chantier | Dessin technique (AutoCAD)
 N'DRAMAN ERIC TANOH - Portfolio
 
 Bienvenue sur mon portfolio.
+
 Jе m'appеllе TANOH N'DRAMAN ERIC еt jе suis teсhnicien chef dе chаntiеr ainsi que teсhnicien OPC, avеc plus dе trоis ans d'eхpériеnce dans le seсteur du bâtiment et du génie civil. Mоn rôle соnsiste à planifier, оrganiser et superviser les travauх, tоut en s'assurant que les délais, les nоrmes de qualité et les spéсificatiоns teсhniquеs sоnt rеspeсtés. Grâсе à un sens aigu de l'оrgаnisatiоn et unе grandе capaсité d'adaptatiоn, jе suis en mesure de сооrdоnnеr efficaсеment lеs équipes sur le terrain et d'assurer la bоnnе réalisаtiоn des prоjеts, dеpuis l'élаbоratiоn dеs plаns jusqu'à leur misе en œuvre.
 
 📍 Abidjan, Côte d'Ivoire
@@ -27,38 +28,18 @@ Rigoureux et orienté terrain, je combine compétences techniques et organisatio
 AutoCAD
 Excel
 Word
-📂 Projets & Réalisations
-🔸 1. Plan d’aménagement bâtiment administratif
 
-📌 Type : Plan architectural
-➡️ Réalisation de plans d’aménagement optimisant la répartition des espaces selon les contraintes techniques et fonctionnelles.
-
-🔗 Lien du projet : Voir le projet
-
-🔸 2. Détail technique – Caniveau en béton
-
-📌 Type : Détail constructif
-➡️ Conception d’un détail technique de caniveau avec sortie centrée, utilisé pour faciliter l’exécution sur chantier.
-
-🔗 Lien du projet : Voir le projet
-
-🔸 3. Plan d’exécution – Abris familiaux
-
-📌 Type : Plan d’exécution
-➡️ Élaboration de plans détaillés pour la construction d’abris, utilisés directement par les équipes terrain.
-
-🔗 Lien du projet : Voir le projet
 
 💼 Expériences professionnelles
 🏢 Technicien OPC – CPCI (2025 - Présent)
 Suivi des approvisionnements
 Contrôle qualité des travaux
 Coordination des équipes
-🏗️ Technicien Chef de Chantier – UNISERV BTP (2024 - 2025)
+🏗️ Technicien Chef de Chantier – UNISERV BTP (Juillet 2024 - Février 2025)
 Organisation et exécution des travaux
 Gestion des équipes
 Rédaction de rapports de chantier
-🛠️ Stagiaire Chef de Chantier – UNISERV BTP (2023 - 2024)
+🛠️ Stagiaire Chef de Chantier – UNISERV BTP (Octobre 2023 - Juillet 2024)
 Assistance à la gestion de chantier
 Suivi de l’exécution des travaux
 🎯 Objectif
